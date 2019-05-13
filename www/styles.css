@@ -1,0 +1,35 @@
+.square-section {
+	background-color: rgb(255,255,255,0.5);
+}
+
+.square {
+	width: 20vw;
+	height: 20vw;
+	background-color: #00a2ff;
+	margin-top: 2vw;
+	margin-left: 2vw;
+	display: inline-block;
+	position: relative;
+}
+
+.grid-square {
+  /* width: 100px; */
+	/* height: 100px; */
+	display: inline-block;
+	background-color: #fff;
+	border: solid 1px rgb(0,0,0,0.2);
+	padding: 5px;
+	margin: 5px;
+}
+
+.blue-background-class {
+	/* background-color: #C8EBFB; */
+	background-color: #0c8fff;
+}
+
+.group_border {
+  border:1px solid black;
+  min-height: 222px;
+  /* width: 100%; */
+  /* text-align: center; */
+}
