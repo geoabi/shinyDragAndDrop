@@ -36,4 +36,12 @@ Finally, just call the function `createGridDrag` to create a container where all
 
 In [dragAndDrop1.R](https://github.com/geoabi/shinyDragAndDrop/blob/master/dragAndDrop1.R) is an example where a container will start with a set of images that can be dropped to any other container.
 
+<p align="center">
+  <img src="https://github.com/geoabi/shinyDragAndDrop/blob/master/example1.jpg" width="60%">
+</p>
+
 In [dragAndDrop2.R](https://github.com/geoabi/shinyDragAndDrop/blob/master/dragAndDrop2.R) is an example where the elements of a container can only be dropped in another conteiner of the same group. This behavior is  possible by using a different group name.
+
+<p align="center">
+  <img src="https://github.com/geoabi/shinyDragAndDrop/blob/master/example2.jpg" width="60%">
+</p>
