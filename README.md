@@ -45,3 +45,6 @@ In [dragAndDrop2.R](https://github.com/geoabi/shinyDragAndDrop/blob/master/dragA
 <p align="center">
   <img src="https://github.com/geoabi/shinyDragAndDrop/blob/master/example2.jpg" width="60%">
 </p>
+
+## Problems and Contributions
+If you have problems running the examples or you have suggestions, please open an issue [here](https://github.com/geoabi/shinyDragAndDrop/issues) at  GitHub. Also if you are interested in collaborate, please make a pull request.
