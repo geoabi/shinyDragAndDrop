@@ -46,5 +46,11 @@ In [dragAndDrop2.R](https://github.com/geoabi/shinyDragAndDrop/blob/master/dragA
   <img src="https://github.com/geoabi/shinyDragAndDrop/blob/master/example2.jpg" width="60%">
 </p>
 
+In [dragAndDrop3.R](https://github.com/geoabi/shinyDragAndDrop/blob/master/dragAndDrop3.R) is an example where new classes can be created by user. It can starts with a predefiend set of clasess or without classes and later new classes can be added.
+
+<p align="center">
+  <img src="https://github.com/geoabi/shinyDragAndDrop/blob/master/example3.jpg" width="60%">
+</p>
+
 ## Problems and Contributions
 If you have problems running the examples or you have suggestions, please open an issue [here](https://github.com/geoabi/shinyDragAndDrop/issues) at  GitHub. Also if you are interested in collaborate, please make a pull request.
